@@ -34,6 +34,6 @@ airflow.cfg
 unittests.cfg
 
 # Ignore Docker files
-docker-compose.override.yml
+#docker-compose.override.yml
 *.env
 

@@ -26,8 +26,8 @@ This project sets up a data pipeline using Apache Airflow, Docker, and the Celer
 
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/seu-usuario/airflow-docker.git
-cd airflow-docker
+git clone https://github.com/seu-usuario/bees.git
+cd bees
 ```
 ### 2. Install Requirements
 
@@ -72,8 +72,8 @@ To run the tests for the data pipeline, ensure that you have Docker and Docker C
 Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/airflow-docker.git
-   cd airflow-docker
+   git clone https://github.com/your-username/bees.git
+   cd bees
    ```
 
 Build and start the Docker containers:
